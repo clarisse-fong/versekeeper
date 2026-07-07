@@ -1,6 +1,3 @@
-# versekeeper
-An intelligent Bible memorization app that uses spaced repetition, adaptive review, and multiple learning modes to help users hide God's Word in their hearts.
-
 # VerseKeeper
 
 VerseKeeper is an intelligent Bible memorization application that helps users memorize Scripture through adaptive spaced repetition, curated verse collections, and multiple review modes.
